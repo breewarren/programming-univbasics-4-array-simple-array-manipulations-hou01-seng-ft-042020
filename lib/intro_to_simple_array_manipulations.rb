@@ -47,7 +47,9 @@ def using_flatten(instruments)
 end
 
 def using_delete(instructors, string)
-  instructors = []
+  instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
+  string = "Steven"
+  instructors.delete(string)
 end
 
 def using_delete_at(famous_robots, deleted_robot)
