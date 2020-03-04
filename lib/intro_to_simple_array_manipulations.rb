@@ -46,8 +46,8 @@ def using_flatten(instruments)
   flat_array = instruments.flatten
 end
 
-def using_delete(array, string)
-
+def using_delete(instructors, string)
+  instructors = []
 end
 
 def using_delete_at(famous_robots, deleted_robot)
