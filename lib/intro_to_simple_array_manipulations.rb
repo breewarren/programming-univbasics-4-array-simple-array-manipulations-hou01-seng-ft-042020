@@ -48,6 +48,12 @@ end
 
 def using_delete(instructors, no_offense_steven)
   instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
-  no_offense_steven = instructors.delete("Steven")
-  instructors
+  no_offense_steven = "Steven"
+  instructors.delete("Steven")
 end
+
+
+def using_delete(my_list, my_element)
+  my_list.delete(my_element)
+end
+
