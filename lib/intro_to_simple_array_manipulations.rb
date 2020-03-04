@@ -52,8 +52,6 @@ def using_delete(instructors, no_offense_steven)
   instructors.delete("Steven")
 end
 
-
-def using_delete(my_list, my_element)
-  my_list.delete(my_element)
-end
+def
+authenticate_or_request_with_http_diges
 
