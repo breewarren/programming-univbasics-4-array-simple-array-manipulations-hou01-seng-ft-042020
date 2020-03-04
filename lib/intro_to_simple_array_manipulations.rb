@@ -52,6 +52,7 @@ def using_delete(instructors, no_offense_steven)
   instructors.delete("Steven")
 end
 
-def
-authenticate_or_request_with_http_diges
+def using_delete_at(array, integer)
+  .delete(indexequaltointeger)
+end
 
